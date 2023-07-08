@@ -1,0 +1,6 @@
+#arquivos ignorados 
+package-lock.json
+cypress.txt
+cypress.env.json
+cypress.config.js
+node_modules
